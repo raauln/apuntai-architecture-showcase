@@ -1,0 +1,2 @@
+# Dependency for local API-contract tests only; no AI SDK or database required.
+Flask==3.1.2
